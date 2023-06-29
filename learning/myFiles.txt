@@ -1,0 +1,3 @@
+i m writing inside a text file using fwrite().
+i m writing inside a text file using fwrite() and it is amazing.
+this is being append to a file.
